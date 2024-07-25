@@ -1,0 +1,58 @@
+.container {
+    background-color: var(--branco);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5em 10em;
+}
+
+.menu__header {
+    padding-right: 30em;
+}
+
+.menu__header a {
+    padding-left: 2em;
+}
+
+.menu__link {
+    text-decoration: none;
+    color: var(--cinza-escuro);
+}
+
+.botao__cabecalho a {
+    text-decoration: none;
+    padding-left: 1em;
+}
+
+.botao__entrar {
+    color: var(--cinza-escuro);
+    margin-right: 2em;
+}
+
+.botao__cadastrar {
+    background-color: var(--vermelho-escuro);
+    color: var(--branco);
+    padding: 0.8em;
+    padding-right: 1em;
+    border-radius: 5px;
+}
+
+.principal {
+    padding: 2em 0;
+    margin: auto;
+}
+
+.carrossel__principal {
+    width: 33%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}   
+
+.carrossel__sobrenos {
+
+}
+
+.carrossel__titulo {
+
+}
